@@ -62,12 +62,8 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 **Hand-painted prototype**
 
 ![default](https://user-images.githubusercontent.com/29946480/42125878-e9b80e2a-7cb9-11e8-91f6-4023c95865f0.jpg)
-
 **PROTOTYPE for design**
-
 <img width="493" alt="default" src="https://user-images.githubusercontent.com/29946480/42125951-f97cd060-7cba-11e8-8e82-f75e81c5102b.PNG">
-
-
 
 
 # ●DESIGN
@@ -75,23 +71,27 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 
 **FINAL DESIGN we used**
 
+
+*The part-time and store managers seem to be paired with each other on an equal footing.
+*The colors used are complementary red and green and do not match well.
+*However, we use a soft tint of pastel tones to create a fused feeling of this color.
 <img width="435" alt="default" src="https://user-images.githubusercontent.com/29946480/42125965-149865c6-7cbb-11e8-940a-423e3d1c0217.PNG">
 
 
 
 
 
-
-
-# ●TOOL we used to implement the app
+# ●TOOLS (we used to implement the app)
 ------------------------------------------------
 
 We used the following tools to implement the full functionality.
+
 
 *1.Android Studio*
 
   <img width="804" alt="default" src="https://user-images.githubusercontent.com/29946480/42125968-1b9167e2-7cbb-11e8-831c-5063f147c4e9.png">
   
+
 *2. Firebase*
 ![default](https://user-images.githubusercontent.com/29946480/42125971-24a9027c-7cbb-11e8-9645-243fd1b5aa3b.jpg)
 
