@@ -27,6 +27,9 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 
 # ●Initial Market Research PLAN
 ------------------------------------
+
+**We planned how to conduct market research and questionnaire.**
+
 <div>
 <img width="257" alt="default" src="https://user-images.githubusercontent.com/29946480/42125795-21e76cfc-7cb8-11e8-841c-12bf207672a6.PNG">
 <img width="528" alt="default" src="https://user-images.githubusercontent.com/29946480/42125811-aca0e3a0-7cb8-11e8-8d19-ba98bfa7e11d.PNG">
@@ -36,30 +39,45 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 
 # ●Problem DEFINITION
 ------------------------------------
+
+**Based on market research, we have defined the problem which apps can help our target audience.**
+
 ![default](https://user-images.githubusercontent.com/29946480/42125839-3628960e-7cb9-11e8-91cd-5d58d1bca582.jpg)
 
 
 
 
-# ●Problems with similar apps
+# ●Problems with SIMILAR APPS
 ------------------------------------------
+
+**We have investigated the problems of existing market apps in order to differentiate the existing apps from our apps.**
+
 <img width="413" alt="default" src="https://user-images.githubusercontent.com/29946480/42125955-01446ce0-7cbb-11e8-9c6e-6acb150edc08.PNG">
 
 
 
 # ●PROTOTYPE
 ------------------------------------
+
+**Hand-painted prototype**
+
 ![default](https://user-images.githubusercontent.com/29946480/42125878-e9b80e2a-7cb9-11e8-91f6-4023c95865f0.jpg)
+
+**PROTOTYPE for design**
+
+<img width="493" alt="default" src="https://user-images.githubusercontent.com/29946480/42125951-f97cd060-7cba-11e8-8e82-f75e81c5102b.PNG">
+
 
 
 
 # ●DESIGN
 -------------------------------------
-**PROTOTYPE for design**
-<img width="493" alt="default" src="https://user-images.githubusercontent.com/29946480/42125951-f97cd060-7cba-11e8-8e82-f75e81c5102b.PNG">
 
 **FINAL DESIGN we used**
+
 <img width="435" alt="default" src="https://user-images.githubusercontent.com/29946480/42125965-149865c6-7cbb-11e8-940a-423e3d1c0217.PNG">
+
+
 
 
 
@@ -87,8 +105,6 @@ We used the following tools to implement the full functionality.
 
 **※앱 구현 동영상:  https://youtu.be/RdGiWGLQSXQ  (채팅부분/ 매장관리자화면)**
 
-
-알사사는(알바와 사장 사이)아르바이트생과 사장사이를 연결해주는 앱 입니다.
 
 
 주요기능은 스케줄관리, 소통(채팅 및 공지), 교육, 임금, 보호수단 이렇게 다섯가지이며 일부는 시간부족으로 구현하지 못했습니다.
