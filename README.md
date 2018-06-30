@@ -43,6 +43,7 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 ------------------------------------
 
 **Based on market research, we have defined the problem which apps can help our target audience.**
+**We divided the problem definition into six keywords.**
 
 ![default](https://user-images.githubusercontent.com/29946480/42125839-3628960e-7cb9-11e8-91cd-5d58d1bca582.jpg)
 
@@ -54,14 +55,14 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 
 **We have investigated the problems of existing market apps in order to differentiate the existing apps from our apps.**
 
-*1. CUPANG_FC APP : Only commute management is possible*
+*1. CUPANG_FC APP : Only commute management is possible.*
 
-*2. ALBAM APP : Part-time-students need to run the app every time they commute
-                For Part-time-students, there is no function other than work record(Features focused only on store managers).
-                There are separate apps for part-time apps and store managers.*
+*2. ALBAM APP : Part-time-students need to run the app every time they commute.*
+               *For Part-time-students, there is no function other than work record(Features focused only on store managers).*
+               *There are separate apps for part-time apps and store managers.*
 
-*3. PAYDAY APP : You have to write the settings manually.
-                 Pay_Calculator_input is inconvenient to use because input space is small*
+*3. PAYDAY APP : You have to write the settings manually.*
+                *Pay_Calculator_input is inconvenient to use because input space is small.*
 
 <img width="386" alt="2" src="https://user-images.githubusercontent.com/29946480/42126254-1f216ce0-7cc0-11e8-8e1b-14c8d9effd3b.PNG">
 
@@ -122,14 +123,14 @@ We used the following tools to implement the full functionality.
 
 **1.Communication**
 
-*CHATTING ROOM for part-timer screen(ALSASA)*
+*<CHATTING ROOM for part-timer screen(ALSASA)>*
 
-*- The store manager invites all the part-time staff members to a group chat.
-- You can have a personal chat between the store manager and the part-time, part-time and part-time students.*
+*- The store manager invites all the part-time staff members to a group chat.*
+*- You can have a personal chat between the store manager and the part-time, part-time and part-time students.*
 
 <img width="297" alt="default" src="https://user-images.githubusercontent.com/29946480/42126261-3af74cb4-7cc0-11e8-8afc-36f67cb8332f.PNG">
 
-*NOTICE for part-timer screen(ALSASA)*
+*<NOTICE for part-timer screen(ALSASA)>*
 
 *- When the manager announces the announcement, part-time-students can check first as soon as they enter the APP*
 
@@ -137,13 +138,13 @@ We used the following tools to implement the full functionality.
 
 **2.Wage**
 
-*Automatic wage calculation function include deduction contents for part-timer screen(ALSASA)*
+*<Automatic wage calculation function include deduction contents for part-timer screen(ALSASA)>*
 
 <img width="297" alt="default" src="https://user-images.githubusercontent.com/29946480/42126257-2da533a0-7cc0-11e8-88aa-0e5ec4ee64ed.PNG">
 
 **3.Education notice board for part-timer**
 
-*for part-timer screen(ALSASA)*
+*<for part-timer screen(ALSASA)>*
 
 *If the store manager puts the education necessary for the store operation on the app board, the part-time students can be check on the board.*
 
