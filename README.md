@@ -72,9 +72,12 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 **FINAL DESIGN we used**
 
 
-*The part-time and store managers seem to be paired with each other on an equal footing.
-*The colors used are complementary red and green and do not match well.
-*However, we use a soft tint of pastel tones to create a fused feeling of this color.
+*The part-time and store managers seem to be paired with each other on an equal footing.*
+
+*The colors used are complementary red and green and do not match well.*
+
+*However, we use a soft tint of pastel tones to create a fused feeling of this color.*
+
 
 <img width="318" alt="1" src="https://user-images.githubusercontent.com/29946480/42126250-0e7b3448-7cc0-11e8-8d01-3fe91c174670.PNG">
 
@@ -104,31 +107,31 @@ We used the following tools to implement the full functionality.
 
 **1.Communication**
 
-*CHATTING ROOM for part-timer screen(ALSASA)
-<img width="216" alt="default" src="https://user-images.githubusercontent.com/29946480/42126261-3af74cb4-7cc0-11e8-8afc-36f67cb8332f.PNG">
+*CHATTING ROOM for part-timer screen(ALSASA)*
+<img width="297" alt="default" src="https://user-images.githubusercontent.com/29946480/42126261-3af74cb4-7cc0-11e8-8afc-36f67cb8332f.PNG">
 
-*NOTICE for part-timer screen(ALSASA)
+*NOTICE for part-timer screen(ALSASA)*
 <img width="297" alt="default" src="https://user-images.githubusercontent.com/29946480/42126263-449825d6-7cc0-11e8-8a20-0a5d92c45516.PNG">
 
 **2.Wage**
 
-*Automatic wage calculation function (Include deductions) for part-timer screen(ALSASA)
-<img width="255" alt="default" src="https://user-images.githubusercontent.com/29946480/42126257-2da533a0-7cc0-11e8-88aa-0e5ec4ee64ed.PNG">
+*Automatic wage calculation function (Include deductions) for part-timer screen(ALSASA)*
+<img width="297" alt="default" src="https://user-images.githubusercontent.com/29946480/42126257-2da533a0-7cc0-11e8-88aa-0e5ec4ee64ed.PNG">
 
 **3.Education notice board for part-timer**
-*for part-timer screen(ALSASA)
-<img width="248" alt="default" src="https://user-images.githubusercontent.com/29946480/42126258-3177d898-7cc0-11e8-858f-37cfeb1f8d72.PNG">
+*for part-timer screen(ALSASA)*
+<img width="297" alt="default" src="https://user-images.githubusercontent.com/29946480/42126258-3177d898-7cc0-11e8-858f-37cfeb1f8d72.PNG">
 
 **4.Settings**
 
-<img width="248" alt="default" src="https://user-images.githubusercontent.com/29946480/42126259-35da4100-7cc0-11e8-8dbd-573593cad282.PNG">
+<img width="297" alt="default" src="https://user-images.githubusercontent.com/29946480/42126259-35da4100-7cc0-11e8-8dbd-573593cad282.PNG">
 
 
 # ●App implementation video  
 
-*Chatting Room / for Store managers screen
+*Chatting Room / for Store managers screen*
 
-**https://youtu.be/RdGiWGLQSXQ **
+**https://youtu.be/RdGiWGLQSXQ**
 
 
 
