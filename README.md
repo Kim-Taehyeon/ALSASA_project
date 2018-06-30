@@ -29,6 +29,12 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 <img width="528" alt="default" src="https://user-images.githubusercontent.com/29946480/42125811-aca0e3a0-7cb8-11e8-8d19-ba98bfa7e11d.PNG">
 </div>
 
+# ●PROBLEM DEFINITION
+------------------------------------
+![default](https://user-images.githubusercontent.com/29946480/42125839-3628960e-7cb9-11e8-91cd-5d58d1bca582.jpg)
+
+
+
 # Feature description of our app
 
 **※앱 구현 동영상:  https://youtu.be/RdGiWGLQSXQ  (채팅부분/ 매장관리자화면)**
