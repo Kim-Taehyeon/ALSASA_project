@@ -14,7 +14,8 @@ Our app is that connects between a part-time student and a store manager.
 The main functions are divided into five categories: 1. Schedule 2. Communication 3. Wage 4. Education 5. Protection.
 
 # Initial MARKET RESEARCH PLAN
-
+------------------------------------
+<img width="271" alt="default" src="https://user-images.githubusercontent.com/29946480/42125760-8e8fa2da-7cb7-11e8-9cb6-f9e539898a15.PNG">
 
 
 # Feature description of our app
