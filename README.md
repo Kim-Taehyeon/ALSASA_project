@@ -29,11 +29,23 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 <img width="528" alt="default" src="https://user-images.githubusercontent.com/29946480/42125811-aca0e3a0-7cb8-11e8-8d19-ba98bfa7e11d.PNG">
 </div>
 
-# ●PROBLEM DEFINITION
+
+
+# ●Problem DEFINITION
 ------------------------------------
 ![default](https://user-images.githubusercontent.com/29946480/42125839-3628960e-7cb9-11e8-91cd-5d58d1bca582.jpg)
 
 
+
+# ●PROTOTYPE
+------------------------------------
+![default](https://user-images.githubusercontent.com/29946480/42125878-e9b80e2a-7cb9-11e8-91f6-4023c95865f0.jpg)
+
+
+
+
+# ●DESIGN
+-------------------------------------
 
 # Feature description of our app
 
