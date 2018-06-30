@@ -48,24 +48,39 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 *< Definition of Problems for STORE MANAGERS >*
 
 *1. Sudden change of schedule.*
+
 *2. Decrease visibility when writing handwriting.*
+
 *3. In case of many part-time worker in store, it is difficult to check salary.*
+
 *4. mutual pay calculation amount is different.*
+
 *5. Part-time student did not check the notice carefully.*
+
 *6. Same contents, repetitive education.*
+
 *7. There are limited protection measures for self-employed compared to large corporations or part-time workers.*
 
 
-*< Definition of Problems for PART-TIME-STIDENTS >*
+
+*< Definition of Problems for PART-TIME-STUDENTS >*
 
 *1. Modified schedule not shared.*
+
 *2. The hassle of writing for commute check.*
+
 *3. If all the part-time work schedules are not shared, it is difficult to find a substitute.*
+
 *4. Difficulty mentioning salary when working overtime.*
+
 *5. Too many chat rooms.*
+
 *6. It is burdensome to share contacts with other part-time students.*
+
 *7. It is difficult to ask again contents of the store management training that we already learned.*
+
 *8. They do not know what to do if they do something unfair while working part time.*
+
 
 ![default](https://user-images.githubusercontent.com/29946480/42125839-3628960e-7cb9-11e8-91cd-5d58d1bca582.jpg)
 
@@ -85,6 +100,7 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 
 *3. PAYDAY APP : You have to write the settings manually.*
                 *Pay_Calculator_input is inconvenient to use because input space is small.*
+
 
 <img width="386" alt="2" src="https://user-images.githubusercontent.com/29946480/42126254-1f216ce0-7cc0-11e8-8e1b-14c8d9effd3b.PNG">
 
@@ -141,7 +157,9 @@ We used the following tools to implement the full functionality.
 
 
 
-# ●Feature description of our app
+# ●FEATURE DESCRIPTION of our app
+
+
 
 **1.Communication**
 
@@ -152,17 +170,25 @@ We used the following tools to implement the full functionality.
 
 <img width="297" alt="default" src="https://user-images.githubusercontent.com/29946480/42126261-3af74cb4-7cc0-11e8-8afc-36f67cb8332f.PNG">
 
+
+
 *<NOTICE for part-timer screen(ALSASA)>*
 
 *- When the manager announces the announcement, part-time-students can check first as soon as they enter the APP*
 
 <img width="297" alt="default" src="https://user-images.githubusercontent.com/29946480/42126263-449825d6-7cc0-11e8-8a20-0a5d92c45516.PNG">
 
+
+
+
 **2.Wage**
 
 *<Automatic wage calculation function include deduction contents for part-timer screen(ALSASA)>*
 
 <img width="297" alt="default" src="https://user-images.githubusercontent.com/29946480/42126257-2da533a0-7cc0-11e8-88aa-0e5ec4ee64ed.PNG">
+
+
+
 
 **3.Education notice board for part-timer**
 
@@ -172,12 +198,17 @@ We used the following tools to implement the full functionality.
 
 <img width="297" alt="default" src="https://user-images.githubusercontent.com/29946480/42126258-3177d898-7cc0-11e8-858f-37cfeb1f8d72.PNG">
 
+
+
+
 **4.Settings**
 
 <img width="297" alt="default" src="https://user-images.githubusercontent.com/29946480/42126259-35da4100-7cc0-11e8-8dbd-573593cad282.PNG">
 
 
-# ●App implementation video  
+
+
+# ●App implementation VIDEO  
 
 *(Chatting Room / for Store managers screen)*
 
@@ -185,9 +216,17 @@ We used the following tools to implement the full functionality.
 
 
 
-**- Some of the key features could not be implemented due to project submission deadlines.**
 
-**- The technologies implemented so far are as described above, and the rest of the implementation will be completed later.**
+
+
+
+
+**▶ Some of the key features could not be implemented due to project submission deadlines.**
+
+**▶ The technologies implemented so far are as described above, and the rest of the implementation will be completed later.**
+
+
+
 
 
 
