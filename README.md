@@ -1,7 +1,8 @@
 # ALSASA_project(MAKER)
 
-**[ PROJECT WITH Park-Joo-Young, Kim-Ok-Keun, Baek-Seung-Yeop, Choi-You-Sin, Lee-Jeong-Yeon, Yong-Yea-Ji 
-in INCHEON UNIVERSITY ]** 
+**[ PROJECT WITH Park-Joo-Young, Kim-Ok-Keun, Baek-Seung-Yeop, Choi-You-Sin, Lee-Jeong-Yeon, Yong-Yea-Ji**
+ 
+**in INCHEON UNIVERSITY ]** 
 
 
 <img width="590" alt="default" src="https://user-images.githubusercontent.com/29946480/42125960-0bc69c88-7cbb-11e8-9871-dfe1a5b77d3c.PNG">
@@ -61,9 +62,13 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 ------------------------------------
 
 **Hand-painted prototype**
+
 ![default](https://user-images.githubusercontent.com/29946480/42125878-e9b80e2a-7cb9-11e8-91f6-4023c95865f0.jpg)
 
 **PROTOTYPE for design**
+
+*We have created a variety of app design prototypes*
+
 <img width="493" alt="default" src="https://user-images.githubusercontent.com/29946480/42125951-f97cd060-7cba-11e8-8e82-f75e81c5102b.PNG">
 
 
@@ -109,19 +114,29 @@ We used the following tools to implement the full functionality.
 **1.Communication**
 
 *CHATTING ROOM for part-timer screen(ALSASA)*
+
+*- The store manager invites all the part-time staff members to a group chat.
+- You can have a personal chat between the store manager and the part-time, part-time and part-time students.*
+
 <img width="297" alt="default" src="https://user-images.githubusercontent.com/29946480/42126261-3af74cb4-7cc0-11e8-8afc-36f67cb8332f.PNG">
 
 *NOTICE for part-timer screen(ALSASA)*
+
+*- When the manager announces the announcement, part-time-students can check first as soon as they enter the APP*
+
 <img width="297" alt="default" src="https://user-images.githubusercontent.com/29946480/42126263-449825d6-7cc0-11e8-8a20-0a5d92c45516.PNG">
 
 **2.Wage**
 
-*Automatic wage calculation function (Include deductions) for part-timer screen(ALSASA)*
+*Automatic wage calculation function include deduction contents for part-timer screen(ALSASA)*
+
 <img width="297" alt="default" src="https://user-images.githubusercontent.com/29946480/42126257-2da533a0-7cc0-11e8-88aa-0e5ec4ee64ed.PNG">
 
 **3.Education notice board for part-timer**
 
 *for part-timer screen(ALSASA)*
+
+*If the store manager puts the education necessary for the store operation on the app board, the part-time students can be check on the board.*
 
 <img width="297" alt="default" src="https://user-images.githubusercontent.com/29946480/42126258-3177d898-7cc0-11e8-858f-37cfeb1f8d72.PNG">
 
@@ -132,18 +147,19 @@ We used the following tools to implement the full functionality.
 
 # ●App implementation video  
 
-*Chatting Room / for Store managers screen*
+*(Chatting Room / for Store managers screen)*
 
 **https://youtu.be/RdGiWGLQSXQ**
 
 
 
-Some of the key features could not be implemented due to project submission deadlines.
+**- Some of the key features could not be implemented due to project submission deadlines.**
 
-The technologies implemented so far are as described above, and the rest of the implementation will be completed later.
+**- The technologies implemented so far are as described above, and the rest of the implementation will be completed later.**
 
 
 
 ***
-We are preparing for the APP Challenge tournament and will only release Java code. It's not completely implemented yet, so I will make it a perfect app!
+We are preparing for the APP Challenge tournament and will only release Java code.
+It's not completely implemented yet, so I will make it a perfect APP.
 ***
