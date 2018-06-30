@@ -3,6 +3,11 @@
 
 
 
+<img width="590" alt="default" src="https://user-images.githubusercontent.com/29946480/42125960-0bc69c88-7cbb-11e8-9871-dfe1a5b77d3c.PNG">
+
+
+
+
 
 # ●ABSTRACT
 
@@ -16,8 +21,6 @@ As a result, We implemented the following app.
 
 Our app is that connects between a part-time student and a store manager. 
 The main functions are divided into five categories: 1. Schedule 2. Communication 3. Wage 4. Education 5. Protection.
-
-
 
 
 
@@ -37,15 +40,43 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 
 
 
+
+# ●Problems with similar apps
+------------------------------------------
+<img width="413" alt="default" src="https://user-images.githubusercontent.com/29946480/42125955-01446ce0-7cbb-11e8-9c6e-6acb150edc08.PNG">
+
+
+
 # ●PROTOTYPE
 ------------------------------------
 ![default](https://user-images.githubusercontent.com/29946480/42125878-e9b80e2a-7cb9-11e8-91f6-4023c95865f0.jpg)
 
 
 
-
 # ●DESIGN
 -------------------------------------
+**PROTOTYPE for design**
+<img width="493" alt="default" src="https://user-images.githubusercontent.com/29946480/42125951-f97cd060-7cba-11e8-8e82-f75e81c5102b.PNG">
+
+**FINAL DESIGN we used**
+<img width="435" alt="default" src="https://user-images.githubusercontent.com/29946480/42125965-149865c6-7cbb-11e8-940a-423e3d1c0217.PNG">
+
+
+# ●TOOL we used to implement the app
+------------------------------------------------
+
+We used the following tools to implement the full functionality.
+
+
+<div>
+  <img width="804" alt="default" src="https://user-images.githubusercontent.com/29946480/42125968-1b9167e2-7cbb-11e8-831c-5063f147c4e9.png">
+![default](https://user-images.githubusercontent.com/29946480/42125971-24a9027c-7cbb-11e8-9645-243fd1b5aa3b.jpg)
+  </div>
+  
+
+
+
+
 
 # Feature description of our app
 
@@ -61,4 +92,6 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 
 
 
-=> APP Challenge 대회를 준비중이어서 자바 코드만 공개합니다. 아직 완벽히 구현되지 않은 앱이라 대회준비하면서 완벽한 앱으로 만들겠습니다!
+***
+We are preparing for the APP Challenge tournament and will only release Java code. It's not completely implemented yet, so I will make it a perfect app!
+***
