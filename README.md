@@ -45,7 +45,7 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 **Based on market research, we have defined the problem which apps can help our target audience.**
 **We divided the problem definition into six keywords(Schedule, Wage, Commute, Communication, Education, Protective means ).**
 
-*< Definition of Problems for STORE MANAGERS >*
+**< Definition of Problems for STORE MANAGERS >**
 
 *1. Sudden change of schedule.*
 
@@ -63,7 +63,12 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 
 
 
-*< Definition of Problems for PART-TIME-STUDENTS >*
+
+
+
+
+
+**< Definition of Problems for PART-TIME-STUDENTS >**
 
 *1. Modified schedule not shared.*
 
