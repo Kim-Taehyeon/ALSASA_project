@@ -4,7 +4,14 @@
 
 
 
-# ABSTRACT
+
+
+
+
+
+
+
+# ●ABSTRACT
 
 In this project, four different departments of electronics engineering, embedded system, design and consumer gathered to carry out the fusion project.
 First, We set up a target with the consumer department and conducted a market research for a month.
@@ -13,7 +20,12 @@ As a result, We implemented the following app.
 Our app is that connects between a part-time student and a store manager. 
 The main functions are divided into five categories: 1. Schedule 2. Communication 3. Wage 4. Education 5. Protection.
 
-# Initial MARKET RESEARCH PLAN
+
+
+
+
+
+# ●Initial MARKET RESEARCH PLAN
 ------------------------------------
 <img width="257" alt="default" src="https://user-images.githubusercontent.com/29946480/42125795-21e76cfc-7cb8-11e8-841c-12bf207672a6.PNG">
 
