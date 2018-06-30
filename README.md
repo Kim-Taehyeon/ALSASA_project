@@ -1,5 +1,9 @@
 # ALSASA_project(MAKER)
 
+
+
+-------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 **[ PROJECT with Park-Joo-Young, Kim-Ok-Keun, Baek-Seung-Yeop, Choi-You-Sin, Lee-Jeong-Yeon, Yong-Yea-Ji**
  
 **in INCHEON UNIVERSITY ]** 
@@ -10,9 +14,9 @@
 
 
 
-
+-------------------------------------------------------------------------------------------------
 # ●ABSTRACT
-
+-------------------------------------------------------------------------------------------------
 In this project, four different departments of electronics engineering, embedded system, design and consumer gathered to carry out the fusion project.
 
 First, We set up a target with the consumer department and conducted a market research for a month.
@@ -26,9 +30,9 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 
 
 
-
+-------------------------------------------------------------------------------------------------
 # ●Initial Market Research PLAN
-------------------------------------
+-------------------------------------------------------------------------------------------------
 
 **We planned how to conduct market research and questionnaire.**
 
@@ -38,14 +42,14 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 </div>
 
 
-
+-------------------------------------------------------------------------------------------------
 # ●Problem DEFINITION
-------------------------------------
+-------------------------------------------------------------------------------------------------
 
 **Based on market research, we have defined the problem which apps can help our target audience.**
 **We divided the problem definition into six keywords(Schedule, Wage, Commute, Communication, Education, Protective means ).**
 
-----------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 **< Definition of Problems for STORE MANAGERS >**
 
 *1. Sudden change of schedule.*
@@ -62,7 +66,7 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 
 *7. There are limited protection measures for self-employed compared to large corporations or part-time workers.*
 
-----------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 
 **< Definition of Problems for PART-TIME-STUDENTS >**
 
@@ -82,18 +86,23 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 
 *8. They do not know what to do if they do something unfair while working part time.*
 
---------------------------------------------------------------------------------------------------------
 
+
+
+
+
+
+-------------------------------------------------------------------------------------------------
 # ●Problem SOLUTIONS
-
+-------------------------------------------------------------------------------------------------
 ![default](https://user-images.githubusercontent.com/29946480/42125839-3628960e-7cb9-11e8-91cd-5d58d1bca582.jpg)
 
 
 
 
-
+-------------------------------------------------------------------------------------------------
 # ●Problems with SIMILAR APPS
-------------------------------------------
+-------------------------------------------------------------------------------------------------
 
 **We have investigated the problems of existing market apps in order to differentiate the existing apps from our apps.**
 
@@ -110,9 +119,9 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 <img width="386" alt="2" src="https://user-images.githubusercontent.com/29946480/42126254-1f216ce0-7cc0-11e8-8e1b-14c8d9effd3b.PNG">
 
 
-
+-------------------------------------------------------------------------------------------------
 # ●PROTOTYPE
-------------------------------------
+-------------------------------------------------------------------------------------------------
 
 **< Hand-painted prototype >**
 
@@ -125,8 +134,11 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 <img width="493" alt="default" src="https://user-images.githubusercontent.com/29946480/42125951-f97cd060-7cba-11e8-8e82-f75e81c5102b.PNG">
 
 
+
+
+-------------------------------------------------------------------------------------------------
 # ●DESIGN
--------------------------------------
+-------------------------------------------------------------------------------------------------
 
 **< FINAL DESIGN we used >**
 
@@ -144,6 +156,9 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 
 
 
+
+
+-------------------------------------------------------------------------------------------------
 # ●TOOLS (we used to implement the app)
 ------------------------------------------------
 
@@ -161,11 +176,9 @@ We used the following tools to implement the full functionality.
 
 
 
-
+-------------------------------------------------------------------------------------------------
 # ●FEATURE DESCRIPTION of our app
-
-
-
+-------------------------------------------------------------------------------------------------
 **1. Communication**
 
 *<CHATTING ROOM for part-timer screen(ALSASA)>*
@@ -176,7 +189,7 @@ We used the following tools to implement the full functionality.
 <img width="297" alt="default" src="https://user-images.githubusercontent.com/29946480/42126261-3af74cb4-7cc0-11e8-8afc-36f67cb8332f.PNG">
 
 
-
+-------------------------------------------------------------------------------------------------
 *<NOTICE for part-timer screen(ALSASA)>*
 
 *- When the manager announces the announcement, part-time-students can check first as soon as they enter the APP*
@@ -185,7 +198,7 @@ We used the following tools to implement the full functionality.
 
 
 
-
+-------------------------------------------------------------------------------------------------
 **2. Wage**
 
 *<Automatic wage calculation function include deduction contents for part-timer screen(ALSASA)>*
@@ -194,7 +207,7 @@ We used the following tools to implement the full functionality.
 
 
 
-
+-------------------------------------------------------------------------------------------------
 **3. Education notice board for part-timer**
 
 *<for part-timer screen(ALSASA)>*
@@ -205,7 +218,7 @@ We used the following tools to implement the full functionality.
 
 
 
-
+-------------------------------------------------------------------------------------------------
 **4. Settings**
 
 <img width="297" alt="default" src="https://user-images.githubusercontent.com/29946480/42126259-35da4100-7cc0-11e8-8dbd-573593cad282.PNG">
@@ -213,8 +226,12 @@ We used the following tools to implement the full functionality.
 
 
 
-# ●App implementation VIDEO  
 
+
+
+-------------------------------------------------------------------------------------------------
+# ●App implementation VIDEO  
+-------------------------------------------------------------------------------------------------
 *(Chatting Room / for Store managers screen)*
 
 **https://youtu.be/RdGiWGLQSXQ**
@@ -225,7 +242,7 @@ We used the following tools to implement the full functionality.
 
 
 
-
+-------------------------------------------------------------------------------------------------
 **▶ Some of the key features could not be implemented due to project submission deadlines.**
 
 **▶ The technologies implemented so far are as described above, and the rest of the implementation will be completed later.**
@@ -234,7 +251,7 @@ We used the following tools to implement the full functionality.
 
 
 
-
+-------------------------------------------------------------------------------------------------
 ***
 We are preparing for the APP Challenge tournament and will only release Java code.
 It's not completely implemented yet, so I will make it a perfect APP.
