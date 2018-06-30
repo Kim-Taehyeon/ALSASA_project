@@ -62,16 +62,21 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 <img width="435" alt="default" src="https://user-images.githubusercontent.com/29946480/42125965-149865c6-7cbb-11e8-940a-423e3d1c0217.PNG">
 
 
+
+
+
 # ●TOOL we used to implement the app
 ------------------------------------------------
 
 We used the following tools to implement the full functionality.
 
+*1.Android Studio*
 
-<div>
   <img width="804" alt="default" src="https://user-images.githubusercontent.com/29946480/42125968-1b9167e2-7cbb-11e8-831c-5063f147c4e9.png">
+  
+*2. Firebase*
 ![default](https://user-images.githubusercontent.com/29946480/42125971-24a9027c-7cbb-11e8-9645-243fd1b5aa3b.jpg)
-  </div>
+
   
 
 
