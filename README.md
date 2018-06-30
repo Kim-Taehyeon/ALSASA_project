@@ -54,6 +54,15 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 
 **We have investigated the problems of existing market apps in order to differentiate the existing apps from our apps.**
 
+*1. CUPANG_FC APP : Only commute management is possible*
+
+*2. ALBAM APP : Part-time-students need to run the app every time they commute
+                For Part-time-students, there is no function other than work record(Features focused only on store managers).
+                There are separate apps for part-time apps and store managers.*
+
+*3. PAYDAY APP : You have to write the settings manually.
+                 Pay_Calculator_input is inconvenient to use because input space is small*
+
 <img width="386" alt="2" src="https://user-images.githubusercontent.com/29946480/42126254-1f216ce0-7cc0-11e8-8e1b-14c8d9effd3b.PNG">
 
 
