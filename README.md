@@ -45,6 +45,7 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 **Based on market research, we have defined the problem which apps can help our target audience.**
 **We divided the problem definition into six keywords(Schedule, Wage, Commute, Communication, Education, Protective means ).**
 
+----------------------------------------------------------
 **< Definition of Problems for STORE MANAGERS >**
 
 *1. Sudden change of schedule.*
@@ -61,12 +62,7 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 
 *7. There are limited protection measures for self-employed compared to large corporations or part-time workers.*
 
-
-
-
-
-
-
+----------------------------------------------------------------------------------------------------
 
 **< Definition of Problems for PART-TIME-STUDENTS >**
 
@@ -86,8 +82,12 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 
 *8. They do not know what to do if they do something unfair while working part time.*
 
+--------------------------------------------------------------------------------------------------------
+
+# ●Problem SOLUTIONS
 
 ![default](https://user-images.githubusercontent.com/29946480/42125839-3628960e-7cb9-11e8-91cd-5d58d1bca582.jpg)
+
 
 
 
@@ -166,7 +166,7 @@ We used the following tools to implement the full functionality.
 
 
 
-**1.Communication**
+**1. Communication**
 
 *<CHATTING ROOM for part-timer screen(ALSASA)>*
 
@@ -186,7 +186,7 @@ We used the following tools to implement the full functionality.
 
 
 
-**2.Wage**
+**2. Wage**
 
 *<Automatic wage calculation function include deduction contents for part-timer screen(ALSASA)>*
 
@@ -195,7 +195,7 @@ We used the following tools to implement the full functionality.
 
 
 
-**3.Education notice board for part-timer**
+**3. Education notice board for part-timer**
 
 *<for part-timer screen(ALSASA)>*
 
@@ -206,7 +206,7 @@ We used the following tools to implement the full functionality.
 
 
 
-**4.Settings**
+**4. Settings**
 
 <img width="297" alt="default" src="https://user-images.githubusercontent.com/29946480/42126259-35da4100-7cc0-11e8-8dbd-573593cad282.PNG">
 
