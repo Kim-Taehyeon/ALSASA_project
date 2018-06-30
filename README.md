@@ -1,7 +1,7 @@
 # ALSASA_project(MAKER)
 
 
-**앱구현동영상 https://youtu.be/RdGiWGLQSXQ (채팅부분/매장관리자화면)
+**앱구현동영상 https://youtu.be/RdGiWGLQSXQ (채팅부분/매장관리자화면)**
 
 
 알사사는(알바와 사장 사이)아르바이트생과 사장사이를 연결해주는 앱 입니다.
