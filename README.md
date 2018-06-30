@@ -1,6 +1,6 @@
 # ALSASA_project(MAKER)
 
-**[ PROJECT WITH Park-Joo-Young, Kim-Ok-Keun, Baek-Seung-Yeop, Choi-You-Sin, Lee-Jeong-Yeon, Yong-Yea-Ji**
+**[ PROJECT with Park-Joo-Young, Kim-Ok-Keun, Baek-Seung-Yeop, Choi-You-Sin, Lee-Jeong-Yeon, Yong-Yea-Ji**
  
 **in INCHEON UNIVERSITY ]** 
 
@@ -43,7 +43,29 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 ------------------------------------
 
 **Based on market research, we have defined the problem which apps can help our target audience.**
-**We divided the problem definition into six keywords.**
+**We divided the problem definition into six keywords(Schedule, Wage, Commute, Communication, Education, Protective means ).**
+
+*< Definition of Problems for STORE MANAGERS >*
+
+*1. Sudden change of schedule.*
+*2. Decrease visibility when writing handwriting.*
+*3. In case of many part-time worker in store, it is difficult to check salary.*
+*4. mutual pay calculation amount is different.*
+*5. Part-time student did not check the notice carefully.*
+*6. Same contents, repetitive education.*
+*7. There are limited protection measures for self-employed compared to large corporations or part-time workers.*
+
+
+*< Definition of Problems for PART-TIME-STIDENTS >*
+
+*1. Modified schedule not shared.*
+*2. The hassle of writing for commute check.*
+*3. If all the part-time work schedules are not shared, it is difficult to find a substitute.*
+*4. Difficulty mentioning salary when working overtime.*
+*5. Too many chat rooms.*
+*6. It is burdensome to share contacts with other part-time students.*
+*7. It is difficult to ask again contents of the store management training that we already learned.*
+*8. They do not know what to do if they do something unfair while working part time.*
 
 ![default](https://user-images.githubusercontent.com/29946480/42125839-3628960e-7cb9-11e8-91cd-5d58d1bca582.jpg)
 
@@ -71,11 +93,11 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 # ●PROTOTYPE
 ------------------------------------
 
-**Hand-painted prototype**
+**< Hand-painted prototype >**
 
 ![default](https://user-images.githubusercontent.com/29946480/42125878-e9b80e2a-7cb9-11e8-91f6-4023c95865f0.jpg)
 
-**PROTOTYPE for design**
+**< PROTOTYPE for design >**
 
 *We have created a variety of app design prototypes*
 
@@ -85,7 +107,7 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 # ●DESIGN
 -------------------------------------
 
-**FINAL DESIGN we used**
+**< FINAL DESIGN we used >**
 
 
 *The part-time and store managers seem to be paired with each other on an equal footing.*
