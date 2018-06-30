@@ -4,7 +4,7 @@
 
 -------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------
-**[ PROJECT with Park-Joo-Young, Kim-Ok-Keun, Baek-Seung-Yeop, Choi-You-Sin, Lee-Jeong-Yeon, Yong-Yea-Ji**
+**[ PROJECT with Kim-Ok-Keun, Baek-Seung-Yeop, Choi-You-Sin, Lee-Jeong-Yeon, Yong-Yea-Ji**
  
 **in INCHEON UNIVERSITY ]** 
 
