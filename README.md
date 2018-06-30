@@ -25,10 +25,12 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 
 
 
-# ●Initial MARKET RESEARCH PLAN
+# ●Initial Market Research PLAN
 ------------------------------------
+<div/>
 <img width="257" alt="default" src="https://user-images.githubusercontent.com/29946480/42125795-21e76cfc-7cb8-11e8-841c-12bf207672a6.PNG">
 
+</div>
 
 # Feature description of our app
 
