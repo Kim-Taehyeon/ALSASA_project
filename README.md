@@ -1,6 +1,6 @@
 # ALSASA_project(MAKER)
 
-
+**Project with Kim-ok-keun, Baek-seung-yeop, Choi-you-sin, Lee-jeong-yeon, Yong-yea-ji in INCHEON UNIVERSITY** 
 
 
 <img width="590" alt="default" src="https://user-images.githubusercontent.com/29946480/42125960-0bc69c88-7cbb-11e8-9871-dfe1a5b77d3c.PNG">
@@ -119,7 +119,9 @@ We used the following tools to implement the full functionality.
 <img width="297" alt="default" src="https://user-images.githubusercontent.com/29946480/42126257-2da533a0-7cc0-11e8-88aa-0e5ec4ee64ed.PNG">
 
 **3.Education notice board for part-timer**
+
 *for part-timer screen(ALSASA)*
+
 <img width="297" alt="default" src="https://user-images.githubusercontent.com/29946480/42126258-3177d898-7cc0-11e8-858f-37cfeb1f8d72.PNG">
 
 **4.Settings**
