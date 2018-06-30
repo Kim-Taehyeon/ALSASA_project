@@ -1,6 +1,6 @@
 # ALSASA_project(MAKER)
 
-**[ PROJECT WITH Park-Joo-Young Kim-Ok-Keun, Baek-Seung-Yeop, Choi-You-Sin, Lee-Jeong-Yeon, Yong-Yea-Ji 
+**[ PROJECT WITH Park-Joo-Young, Kim-Ok-Keun, Baek-Seung-Yeop, Choi-You-Sin, Lee-Jeong-Yeon, Yong-Yea-Ji 
 in INCHEON UNIVERSITY ]** 
 
 
