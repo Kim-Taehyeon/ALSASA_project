@@ -52,7 +52,7 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 
 **We have investigated the problems of existing market apps in order to differentiate the existing apps from our apps.**
 
-<img width="413" alt="default" src="https://user-images.githubusercontent.com/29946480/42125955-01446ce0-7cbb-11e8-9c6e-6acb150edc08.PNG">
+<img width="386" alt="2" src="https://user-images.githubusercontent.com/29946480/42126254-1f216ce0-7cc0-11e8-8e1b-14c8d9effd3b.PNG">
 
 
 
@@ -60,8 +60,8 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 ------------------------------------
 
 **Hand-painted prototype**
-
 ![default](https://user-images.githubusercontent.com/29946480/42125878-e9b80e2a-7cb9-11e8-91f6-4023c95865f0.jpg)
+
 **PROTOTYPE for design**
 <img width="493" alt="default" src="https://user-images.githubusercontent.com/29946480/42125951-f97cd060-7cba-11e8-8e82-f75e81c5102b.PNG">
 
@@ -75,7 +75,8 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 *The part-time and store managers seem to be paired with each other on an equal footing.
 *The colors used are complementary red and green and do not match well.
 *However, we use a soft tint of pastel tones to create a fused feeling of this color.
-<img width="435" alt="default" src="https://user-images.githubusercontent.com/29946480/42125965-149865c6-7cbb-11e8-940a-423e3d1c0217.PNG">
+
+<img width="318" alt="1" src="https://user-images.githubusercontent.com/29946480/42126250-0e7b3448-7cc0-11e8-8d01-3fe91c174670.PNG">
 
 
 
@@ -88,9 +89,7 @@ We used the following tools to implement the full functionality.
 
 
 *1.Android Studio*
-
-  <img width="804" alt="default" src="https://user-images.githubusercontent.com/29946480/42125968-1b9167e2-7cbb-11e8-831c-5063f147c4e9.png">
-  
+![2](https://user-images.githubusercontent.com/29946480/42126245-fda355c4-7cbf-11e8-8afa-1b688fbcddf4.jpg)
 
 *2. Firebase*
 ![default](https://user-images.githubusercontent.com/29946480/42125971-24a9027c-7cbb-11e8-9645-243fd1b5aa3b.jpg)
@@ -101,15 +100,41 @@ We used the following tools to implement the full functionality.
 
 
 
-# Feature description of our app
+# ●Feature description of our app
 
-**※앱 구현 동영상:  https://youtu.be/RdGiWGLQSXQ  (채팅부분/ 매장관리자화면)**
+**1.Communication**
+
+*CHATTING ROOM for part-timer screen(ALSASA)
+<img width="216" alt="default" src="https://user-images.githubusercontent.com/29946480/42126261-3af74cb4-7cc0-11e8-8afc-36f67cb8332f.PNG">
+
+*NOTICE for part-timer screen(ALSASA)
+<img width="297" alt="default" src="https://user-images.githubusercontent.com/29946480/42126263-449825d6-7cc0-11e8-8a20-0a5d92c45516.PNG">
+
+**2.Wage**
+
+*Automatic wage calculation function (Include deductions) for part-timer screen(ALSASA)
+<img width="255" alt="default" src="https://user-images.githubusercontent.com/29946480/42126257-2da533a0-7cc0-11e8-88aa-0e5ec4ee64ed.PNG">
+
+**3.Education notice board for part-timer**
+*for part-timer screen(ALSASA)
+<img width="248" alt="default" src="https://user-images.githubusercontent.com/29946480/42126258-3177d898-7cc0-11e8-858f-37cfeb1f8d72.PNG">
+
+**4.Settings**
+
+<img width="248" alt="default" src="https://user-images.githubusercontent.com/29946480/42126259-35da4100-7cc0-11e8-8dbd-573593cad282.PNG">
+
+
+# ●App implementation video  
+
+*Chatting Room / for Store managers screen
+
+**https://youtu.be/RdGiWGLQSXQ **
 
 
 
-주요기능은 스케줄관리, 소통(채팅 및 공지), 교육, 임금, 보호수단 이렇게 다섯가지이며 일부는 시간부족으로 구현하지 못했습니다.
+Some of the key features could not be implemented due to project submission deadlines.
 
-[현재 코드에서 구현된 기능 -->  공지사항, 채팅(단체, 개인), 출퇴근시간체크(타이머), 자동 임금계산기(공제내역), 보호수단링크, 교육게시판등...]
+The technologies implemented so far are as described above, and the rest of the implementation will be completed later.
 
 
 
