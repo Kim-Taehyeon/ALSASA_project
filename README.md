@@ -2,7 +2,7 @@
 
 
 
--------------------------------------------------------------------------------------------------
+
 -------------------------------------------------------------------------------
 **[ PROJECT with Kim-Ok-Keun, Baek-Seung-Yeop, Choi-You-Sin, Lee-Jeong-Yeon, Yong-Yea-Ji**
  
@@ -15,7 +15,7 @@
 
 
 -------------------------------------------------------------------------------------------------
-# ●ABSTRACT
+# ABSTRACT
 -------------------------------------------------------------------------------------------------
 In this project, four different departments of electronics engineering, embedded system, design and consumer gathered to carry out the fusion project.
 
@@ -31,7 +31,7 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 
 
 -------------------------------------------------------------------------------------------------
-# ●Initial Market Research PLAN
+# Initial Market Research PLAN
 -------------------------------------------------------------------------------------------------
 
 **We planned how to conduct market research and questionnaire.**
@@ -43,7 +43,7 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 
 
 -------------------------------------------------------------------------------------------------
-# ●Problem DEFINITION
+# Problem DEFINITION
 -------------------------------------------------------------------------------------------------
 
 **Based on market research, we have defined the problem which apps can help our target audience.**
@@ -93,7 +93,7 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 
 
 -------------------------------------------------------------------------------------------------
-# ●Problem SOLUTIONS
+# Problem SOLUTIONS
 -------------------------------------------------------------------------------------------------
 ![default](https://user-images.githubusercontent.com/29946480/42125839-3628960e-7cb9-11e8-91cd-5d58d1bca582.jpg)
 
@@ -101,7 +101,7 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 
 
 -------------------------------------------------------------------------------------------------
-# ●Problems with SIMILAR APPS
+# Problems with SIMILAR APPS
 -------------------------------------------------------------------------------------------------
 
 **We have investigated the problems of existing market apps in order to differentiate the existing apps from our apps.**
@@ -120,7 +120,7 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 
 
 -------------------------------------------------------------------------------------------------
-# ●PROTOTYPE
+# PROTOTYPE
 -------------------------------------------------------------------------------------------------
 
 **< Hand-painted prototype >**
@@ -137,7 +137,7 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 
 
 -------------------------------------------------------------------------------------------------
-# ●DESIGN
+# DESIGN
 -------------------------------------------------------------------------------------------------
 
 **< FINAL DESIGN we used >**
@@ -159,7 +159,7 @@ The main functions are divided into five categories: 1. Schedule 2. Communicatio
 
 
 -------------------------------------------------------------------------------------------------
-# ●TOOLS (we used to implement the app)
+# TOOLS (we used to implement the app)
 ------------------------------------------------
 
 We used the following tools to implement the full functionality.
@@ -177,7 +177,7 @@ We used the following tools to implement the full functionality.
 
 
 -------------------------------------------------------------------------------------------------
-# ●FEATURE DESCRIPTION of our app
+# FEATURE DESCRIPTION of our app
 -------------------------------------------------------------------------------------------------
 **1. Communication**
 
@@ -230,7 +230,7 @@ We used the following tools to implement the full functionality.
 
 
 -------------------------------------------------------------------------------------------------
-# ●App implementation VIDEO  
+# App implementation VIDEO  
 -------------------------------------------------------------------------------------------------
 *(Chatting Room / for Store managers screen)*
 
